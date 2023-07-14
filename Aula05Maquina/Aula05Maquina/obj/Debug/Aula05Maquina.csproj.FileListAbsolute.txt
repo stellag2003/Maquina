@@ -1,0 +1,10 @@
+C:\Users\stella.gmendonca\source\repos\Aula05Maquina\Aula05Maquina\bin\Debug\Aula05Maquina.exe.config
+C:\Users\stella.gmendonca\source\repos\Aula05Maquina\Aula05Maquina\bin\Debug\Aula05Maquina.exe
+C:\Users\stella.gmendonca\source\repos\Aula05Maquina\Aula05Maquina\bin\Debug\Aula05Maquina.pdb
+C:\Users\stella.gmendonca\source\repos\Aula05Maquina\Aula05Maquina\obj\Debug\Aula05Maquina.csproj.AssemblyReference.cache
+C:\Users\stella.gmendonca\source\repos\Aula05Maquina\Aula05Maquina\obj\Debug\Aula05Maquina.Form1.resources
+C:\Users\stella.gmendonca\source\repos\Aula05Maquina\Aula05Maquina\obj\Debug\Aula05Maquina.Properties.Resources.resources
+C:\Users\stella.gmendonca\source\repos\Aula05Maquina\Aula05Maquina\obj\Debug\Aula05Maquina.csproj.GenerateResource.cache
+C:\Users\stella.gmendonca\source\repos\Aula05Maquina\Aula05Maquina\obj\Debug\Aula05Maquina.csproj.CoreCompileInputs.cache
+C:\Users\stella.gmendonca\source\repos\Aula05Maquina\Aula05Maquina\obj\Debug\Aula05Maquina.exe
+C:\Users\stella.gmendonca\source\repos\Aula05Maquina\Aula05Maquina\obj\Debug\Aula05Maquina.pdb
